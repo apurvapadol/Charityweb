@@ -2,8 +2,7 @@
 
 A modern and responsive NGO charity website built using React.js to support social causes, donations, and community engagement.
 
-🔗 **Live Website:** https://shantibhrambacharitywebsite.netlify.app/
-💻 **GitHub Repo:** https://github.com/apurvapadol/Charityweb  
+🔗 **Live Website:** https://shantibhrambacharitywebsite.netlify.app/ 
 
 ---
 
