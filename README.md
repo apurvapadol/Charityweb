@@ -1,16 +1,55 @@
-# React + Vite
+# 🌟 Shanti Bhramba Charity Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive NGO charity website built using React.js to support social causes, donations, and community engagement.
 
-Currently, two official plugins are available:
+🔗 **Live Website:** https://shantibhrambacharitywebsite.netlify.app/
+💻 **GitHub Repo:** https://github.com/apurvapadol/Charityweb  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📌 Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Shanti Bhramba Charity Website is a dynamic web platform designed to promote social initiatives, showcase activities, and encourage donations. The website provides users with information about the organization, its mission, and ways to contribute.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🏠 Modern Home Page with Hero Section  
+- 📖 About Us & Mission/Vision Section  
+- 🎯 Activities & Social Work Showcase  
+- 🖼️ Image Gallery with real event photos  
+- 💰 Donation Section with QR integration  
+- 📞 Contact Page with user-friendly form  
+- 📱 Fully Responsive Design (Mobile + Desktop)  
+- ⚡ Fast performance using Vite  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3  
+- **Styling:** Tailwind CSS  
+- **Build Tool:** Vite  
+- **Version Control:** Git & GitHub  
+- **Deployment:** Netlify  
+
+---
+
+## 📂 Folder Structure
+src/
+├── Components/
+├── Pages/
+├── assets/
+public/
+├── Images/
+├── Gallery/
+
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/apurvapadol/Charityweb.git
